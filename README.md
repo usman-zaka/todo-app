@@ -1,12 +1,34 @@
-# React + Vite
+# 📝 Productive Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and clean Todo List application built with **React** to help you stay productive and organized. Easily add, delete, and manage your daily tasks.
 
-Currently, two official plugins are available:
+👉 [Live Demo](https://productive-todo-app.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Add new tasks
+- ❌ Delete tasks
+- 🧼 Clear all tasks
+- 💾 Local storage support (persists your todos between sessions)
+- 🧘 Minimal and distraction-free design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshots
+
+![Todo App Screenshot](https://productive-todo-app.netlify.app/screenshot.png) <!-- Optional: Replace or remove this if not available -->
+
+## 🛠️ Tech Stack
+
+- **React**
+- HTML & CSS
+- JavaScript
+- [Netlify](https://www.netlify.com/) for deployment
+
+## 📦 Installation
+
+To run the project locally:
+
+```bash
+git clone https://github.com/your-username/todo-app.git
+cd todo-app
+npm install
+npm run dev
